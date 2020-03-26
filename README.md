@@ -34,7 +34,4 @@ For MDT112 Student
 
 ## image
 
-[flowchart]:https://github.com/katapat/MDT112-Project/blob/master/images/Project%20Flowchart.svg"Logo Title Text"	![alt text For Logo 2][flowchart]
-
-
 [flowchart]: https://github.com/katapat/MDT112-Project/blob/master/images/Project%20Flowchart.svg "Logo Title Text"
