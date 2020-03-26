@@ -29,3 +29,5 @@ For MDT112 Student
 ## Manipulation
 - รถไฟฟ้าขนาดเล็กพ่วงอุปกรณ์รับน้ำหนัก
 - ตัวรับสัญญาณ GPS
+
+https://github.com/katapat/MDT112-Project/raw/master/images/Project%20Flowchart.svg?sanitize=true
